@@ -1090,16 +1090,6 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>APFS Driver</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>ApfsDriverLoader.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Comment</key>
 				<string>HFS+ Driver</string>
 				<key>Enabled</key>
 				<true/>
